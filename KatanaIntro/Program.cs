@@ -10,6 +10,7 @@ namespace KatanaIntro
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
